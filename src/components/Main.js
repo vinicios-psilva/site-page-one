@@ -24,7 +24,7 @@ const Main = () => {
                         </p>
                     </div>
                     <div className="col-md-6 col-sm-4 d-flex justify-content-center">
-                        <Image className="img-fluid rounded-3" src="https://static.wixstatic.com/media/73cf8d_7be904d6bf6448f5a17e20bd206e1ecc~mv2.jpg/v1/fill/w_435,h_520,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/73cf8d_7be904d6bf6448f5a17e20bd206e1ecc~mv2.jpg"
+                        <Image className="img-fluid rounded-3 img" src="https://static.wixstatic.com/media/73cf8d_7be904d6bf6448f5a17e20bd206e1ecc~mv2.jpg/v1/fill/w_435,h_520,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/73cf8d_7be904d6bf6448f5a17e20bd206e1ecc~mv2.jpg"
                         width="350" height="350" alt=""/>
                     </div>
                 </div>
