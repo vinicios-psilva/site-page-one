@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import React from "react";
 import styles from "../styles/styles.css"
 
@@ -23,8 +24,8 @@ const Main = () => {
                         </p>
                     </div>
                     <div className="col-md-6 col-sm-4 d-flex justify-content-center">
-                        <img className=" img-fluid rounded img" src="https://static.wixstatic.com/media/73cf8d_7be904d6bf6448f5a17e20bd206e1ecc~mv2.jpg/v1/fill/w_435,h_520,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/73cf8d_7be904d6bf6448f5a17e20bd206e1ecc~mv2.jpg" 
-                        alt="" />
+                        <Image className="img-fluid rounded-3" src="https://static.wixstatic.com/media/73cf8d_7be904d6bf6448f5a17e20bd206e1ecc~mv2.jpg/v1/fill/w_435,h_520,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/73cf8d_7be904d6bf6448f5a17e20bd206e1ecc~mv2.jpg"
+                        width="350" height="350"/>
                     </div>
                 </div>
             </section>
@@ -99,8 +100,8 @@ const Main = () => {
                 <h1 className="text-center py-4 ">Tratamento para insegurança</h1>
                 <div className=" row p-4 d-flex align-items-center">
                     <div className="col-md-6 col-sm-4 d-flex justify-content-center ">
-                        <img className=" img-fluid rounded img" src="https://static.wixstatic.com/media/73cf8d_954d25b10dbe49149fdf3ab1014de55d~mv2.png/v1/fill/w_391,h_500,al_c,q_85,enc_auto/73cf8d_954d25b10dbe49149fdf3ab1014de55d~mv2.png" 
-                        alt="" />
+                        <Image className="img-fluid rounded img" src="https://static.wixstatic.com/media/73cf8d_954d25b10dbe49149fdf3ab1014de55d~mv2.png/v1/fill/w_391,h_500,al_c,q_85,enc_auto/73cf8d_954d25b10dbe49149fdf3ab1014de55d~mv2.png"
+                        width="350" height="350"/>
                     </div>
                     <div className="col-md-6 col-sm-8">
                         <p className="lead">
@@ -181,8 +182,8 @@ const Main = () => {
                         </p>
                     </div>
                     <div className="col-md-6 col-sm-4 d-flex justify-content-center">
-                        <img className=" img-fluid rounded img" src="https://static.wixstatic.com/media/73cf8d_7bedc6061e1d40a78e57d0b604d490b9~mv2.jpg/v1/fill/w_435,h_453,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/73cf8d_7bedc6061e1d40a78e57d0b604d490b9~mv2.jpg" 
-                        alt="" />
+                        <Image className="img-fluid rounded img" src="https://static.wixstatic.com/media/73cf8d_7bedc6061e1d40a78e57d0b604d490b9~mv2.jpg/v1/fill/w_435,h_453,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/73cf8d_7bedc6061e1d40a78e57d0b604d490b9~mv2.jpg"
+                        width="350" height="350"/>
                     </div>
                 </div>
             </section>

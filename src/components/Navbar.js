@@ -9,7 +9,7 @@ const Navbar = () => {
             <nav className="navbar navbar-expand-sm m-1">
                 <Link href="/" legacyBehavior>
                     <a className="logo">
-                        <Image className="logo" src="/logo.png" width="80" height="80"/>
+                        <Image className="rounded-3" src="/logo.png" width="80" height="80"/>
                     </a>
                 </Link>
                 <div>
