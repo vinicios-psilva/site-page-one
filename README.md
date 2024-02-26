@@ -1,6 +1,6 @@
 # Site One Page
 
-<img src="public/front.png">
+<img src="public/front.png" style="border-radius: 10px">
 
 ## Descrição
 
